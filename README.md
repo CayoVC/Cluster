@@ -9,6 +9,8 @@ Nodes of the cluster
 
 ![image](https://user-images.githubusercontent.com/91564048/135345845-cfa26f74-194f-4d23-87bd-8dd710d610c1.png)
 
+![image](https://user-images.githubusercontent.com/91564048/135554595-33949ae9-3778-4bda-952a-cf351e1cd18c.png)
+
 ![image](https://user-images.githubusercontent.com/91564048/135345885-2f0f4655-f549-482c-bff7-e802766ea7bb.png)
 
 ![image](https://user-images.githubusercontent.com/91564048/135345931-0f63a5b0-b881-4b12-a598-80bf768837e3.png)
